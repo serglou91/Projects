@@ -1,0 +1,12 @@
+.row{
+	margin: 0 auto;
+}
+
+.col{
+	text-align: center;
+}
+
+#listHeader{
+	font-weight:bold;
+	font-size:140%;
+}

@@ -1,0 +1,16 @@
+{
+	"teams":{
+		"canucks":{"name":"Vancouver Canucks"},
+		"canadiens":{"name":"Montreal Canadiens"}
+	},
+	"players":{
+		"ABurrows":{"name":"Alexandre Burrows", "position":"RW", "number":"14", "teamaffiliation":"canucks"},
+		"DSedin":{"name":"Daniel Sedin", "position":"LW", "number":"22", "teamaffiliation":"canucks"},
+		"HSedin":{"name":"Henrik Sedin", "position":"C", "number":"33", "teamaffiliation":"canucks"},
+		"RMiller":{"name":"Ryan Miller", "position":"G", "number":"30", "teamaffiliation":"canucks"},
+		"PKSubban":{"name":"P.K. Subban", "position":"D", "number":"76", "teamaffiliation":"canadiens"},
+		"CPrice":{"name":"Carey Price", "position":"G", "number":"31", "teamaffiliation":"canadiens"},
+		"LEller":{"name":"Lars Eller", "position":"C", "number":"81", "teamaffiliation":"canadiens"},
+		"BGallagher":{"name":"Brendan Gallagher", "position":"RW", "number":"11", "teamaffiliation":"canadiens"}
+	}
+}
